@@ -6,5 +6,11 @@ Bitshares Pay will allow varying degrees of integration. It could be as simple a
  
 ## Readonly mode
 
-- Display account name
-- Display amount (denominated in
+Parameters include:
+
+- Account Name (required)
+- Asset (required) 1.3.121 would be bitUSD
+- Amount (optional)
+- Memo contents (customizable json)
+- Theme (optional, default light)
+

@@ -50,7 +50,7 @@ function updateListener(object) {
                     }
                 })
             })
-            console.log("-------------End block " + object[0][0].head_block_number + "------------");
+            console.log("-------------End block          " + object[0][0].head_block_number + "------------");
         })
     }
     // console.log("set_subscribe_callback update:\n", object);
